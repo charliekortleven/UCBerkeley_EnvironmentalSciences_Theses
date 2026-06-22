@@ -1,0 +1,14 @@
+**Individiual differences --**
+
+2001: Sarah Hoehn only has an intro, no abstract
+2005: Stefanie Graeter has an introduction, no abstract
+2016: Ian UtZ has no keywords
+2017: Alvaro Zayas no abstract or keywords 
+
+There are some students whose theses are in the wrong year. In the database, you’ll see their ‘Year’ attribute is correct, but their URL has the WRONG year, because that is where the website currently links them. Later on, I or someone else will need to comb through and identify these students' names.
+However, some theses (from 2004 and earlier) don't include the year on the first page, so to check for misplaced students, we would need a roster or external information.
+
+**Year-level differences --**
+2010: Some students are missing keywords altogether.
+2005-2009: I created a script to rename the files of these years based on the 2010 (and on) labeling convention: LastNameFirstInitial_Year-page1.pdf. The script, along with the altered file names, can be found HERE. However, this updated labeling convention is NOT reflected in the sheet because they first need to be updated on the archive website for the URL hyperlinks to work correctly.
+2002: The archive website needs cleaning up; there are two duplicates for each student. My recommendation is to keep the file named LastName-page1.pdf because that is what my database currently uses for the hyperlinks, and it follows the desired label convention.
