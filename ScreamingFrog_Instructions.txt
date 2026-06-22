@@ -1,1 +1,1 @@
-To ensure that all of the hyperlinks in my final Excel spreadsheet point to valid URLs, I used Screaming Frog. When URLs returned 404 status codes, they were investigated and corrected. 
+To ensure that all of the hyperlinks in my final Excel spreadsheet point to valid URLs, I used Screaming Frog (https://www.screamingfrog.co.uk/). When URLs returned 404 status codes, they were investigated and corrected. 
