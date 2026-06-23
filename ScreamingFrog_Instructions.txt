@@ -1,4 +1,4 @@
-I used Screaming Frog (https://www.screamingfrog.co.uk/), to ensure hyperlinks in my final spreadsheet point to valid URLs. When URLs returned 404 status codes, they were investigated and corrected. 
+I used Screaming Frog (https://www.screamingfrog.co.uk/), to ensure hyperlinks in my final spreadsheet point to valid URLs. When URLs returned 404 status codes, they were manually investigated and corrected. 
 
 Notes on URLs returning 404 status:
 
