@@ -1,1 +1,17 @@
 To ensure that all of the hyperlinks in my final Excel spreadsheet point to valid URLs, I used Screaming Frog (https://www.screamingfrog.co.uk/). When URLs returned 404 status codes, they were investigated and corrected. 
+
+Notes on 404 URLs (all corrected or removed).
+
+1. White space needs to be encoded as %20 for a valid URL.
+Corrected to: https://www.ocf.berkeley.edu/~pkmendez/envsci/projects/2006final/zintzun%20.pdf 
+
+2. The Millers need the first initial of their first name appended to the end of their URLs (unlike everyone else in the class  of 2007, who just has the Lastname.pdf).
+https://www.ocf.berkeley.edu/~pkmendez/envsci/projects/2007final/MillerJ.pdf
+https://www.ocf.berkeley.edu/~pkmendez/envsci/projects/2007final/MillerT.pdf
+
+3. Missing URL on archive website: Neva Krieg
+Removed URL from the sheet for now
+
+4. Cases of abstract-only students (needed _abstract appended to the end): 
+https://www.ocf.berkeley.edu/~pkmendez/envsci/projects/2010final/ZhengC_2010_abstract.pdf
+https://www.ocf.berkeley.edu/~pkmendez/envsci/projects/2011final/ChowI_2011_abstract.pdf
