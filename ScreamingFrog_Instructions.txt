@@ -1,6 +1,6 @@
-To ensure that all of the hyperlinks in my final Excel spreadsheet point to valid URLs, I used Screaming Frog (https://www.screamingfrog.co.uk/). When URLs returned 404 status codes, they were investigated and corrected. 
+I used Screaming Frog (https://www.screamingfrog.co.uk/), to ensure hyperlinks in my final spreadsheet point to valid URLs. When URLs returned 404 status codes, they were investigated and corrected. 
 
-Notes on 404 URLs (all corrected or removed).
+Notes on URLs returning 404 status:
 
 1. White space needs to be encoded as %20 for a valid URL.
 Corrected to: https://www.ocf.berkeley.edu/~pkmendez/envsci/projects/2006final/zintzun%20.pdf 
